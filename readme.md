@@ -26,6 +26,15 @@ Run executable
 run.exe [PORT NUMBER (Optional, default 2036)]
 ```
 
+### OR
+
+Download from [Release page](https://github.com/chrisleunglkw/InstantIDBackgroundProcessRunner/releases/tag/v0.1.0)
+Run executable
+```sh
+run.exe [PORT NUMBER (Optional, default 2036)]
+```
+
+
 Add the service in *Data Sources* > *Web Services*.
 - Type `Generic`
 - Web Service type `REST`
